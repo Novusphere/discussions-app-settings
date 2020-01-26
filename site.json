@@ -11,6 +11,14 @@
       ],
       "defaultTagsGroups":[
          {
+            "Partners":[
+               "bbt",
+               "puml",
+               "boid",
+               "mpt"
+            ]
+         },
+         {
             "Politics":[
                "pol",
                "politics"
@@ -53,6 +61,14 @@
          "https://beta.discussions.app/static/banners/default.png"
       ],
       "defaultTagsGroups":[
+         {
+            "Partners":[
+               "bbt",
+               "puml",
+               "boid",
+               "mpt"
+            ]
+         },
          {
             "Politics":[
                "pol",
