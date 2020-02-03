@@ -19,10 +19,10 @@
 ",
             "icon":"https://ndi.340wan.com/eos/metpacktoken-mpt.png"
          },
-         "puml"{
+         "puml":{
             "desc":"",
             "icon":""
-      
+         }
       },
       "bannerImages":[
          "https://discussions.app/static/banners/default.png"
