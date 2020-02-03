@@ -4,8 +4,7 @@
          "test":{
             "desc":"This is a tag used for testing things!",
             "icon":"https://i.imgur.com/6I3Q8bB.png"
-         }
-      }
+         },
       "bannerImages":[
          "https://discussions.app/static/banners/default.png"
       ],
@@ -143,4 +142,5 @@
          }
       ]
    }
+}
 }
