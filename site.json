@@ -31,7 +31,11 @@
          },
          "banano":{
             "desc":"Next best thing since sliced bread 🍌",
-            "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1581028504062.jpeg"
+            "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1581028654767.png"
+         },
+         "eos":{
+            "desc":"EOSIO is a next-generation, open-source blockchain protocol with industry- leading transaction speed and flexible utility.",
+            "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1581028911491.png"
          }
 },
       "bannerImages":[
