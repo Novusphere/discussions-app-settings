@@ -28,6 +28,10 @@
          "atmos":{
             "desc":"ATMOS powers Discussions.app. With trx fees going to token holders. Find ATMOS on Newdex here: https://newdex.io/trade/novusphereio-atmos-eos",
             "icon":"https://ndi.340wan.com/eos/novusphereio-atmos.png"
+         },
+         "banano":{
+            "desc":"Next best thing since sliced bread 🍌",
+            "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1581028504062.jpeg"
          }
 },
       "bannerImages":[
