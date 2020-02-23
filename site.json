@@ -1,5 +1,6 @@
 {
    "discussions.app":{
+      "description": "Welcome to Discussions App!",
       "tags":{
          "test":{
             "desc":"This is a tag used for testing things!",
