@@ -1,5 +1,6 @@
 {
    "discussions.app":{
+      "icon": "https://cdn.novusphere.io/static/atmos.png",
       "description": "Welcome to Discussions App!",
       "tags":{
          "test":{
@@ -87,6 +88,8 @@
       ]
    },
    "beta.discussions.app":{
+      "icon": "https://cdn.novusphere.io/static/atmos.png",
+      "description": "Discussions App Beta Testing",
       "tags":{
          "test":{
             "desc":"This is a tag used for testing things!",
