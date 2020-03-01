@@ -42,6 +42,10 @@
          "eoshelp":{
             "desc":"Tokens frozen? No CPU? Ask all your EOS questions here!",
             "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1582818868287.png"
+         },
+         "TLOS":{
+            "desc":"Built on EOSIO. Delegated Proof of Stake is the future of smart-contract blockchains. We combine the blazing fast execution and scalability of EOSIO software with true decentralization that makes DPoS sustainable. Telos will have the most even money supply distribution of any blockchain. This token distribution improves governance so the network is more secure and ensures that the future of Telos is decided by its community. Telos has built the most advanced smart contract-controlled governance features of any blockchain.",
+            "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1583066806308.png"
          }
 },
       "bannerImages":[
