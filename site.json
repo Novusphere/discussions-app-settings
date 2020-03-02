@@ -54,7 +54,11 @@
          "steem":{
             "desc":"",
             "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1583170421214.png"
-         }
+         },
+         "twitter":{
+            "desc":"",
+            "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1583173212760.png"
+         }         
 
          
 },
