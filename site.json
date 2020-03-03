@@ -1,7 +1,7 @@
 {
    "discussions.app":{
-      "icon":"https://cdn.novusphere.io/static/atmos.png",
-      "description":"Welcome to Discussions App!",
+      "icon": "https://cdn.novusphere.io/static/atmos.png",
+      "description": "Welcome to Discussions App!",
       "tags":{
          "test":{
             "desc":"This is a tag used for testing things!",
@@ -58,8 +58,10 @@
          "twitter":{
             "desc":"",
             "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1583173212760.png"
-         }
-      },
+         }         
+
+         
+},
       "bannerImages":[
          "https://i.imgur.com/WO5pb52.png"
       ],
@@ -103,15 +105,14 @@
       "defaultModerators":[
          {
             "all":[
-               "Novusphere-EOS5JRFmNRpb8f4kBeFfVVU8Kgu7vdPHQhgaE29R7qijZLS2m8Ug3",
-               "Novusphere_Jacques-EOS5epmzy9PGex6uS6r6UzcsyxYhsciwjMdrx1qbtF51hXhRjnYYH"
+               "Novusphere-EOS5JRFmNRpb8f4kBeFfVVU8Kgu7vdPHQhgaE29R7qijZLS2m8Ug3"
             ]
          }
       ]
    },
    "beta.discussions.app":{
-      "icon":"https://cdn.novusphere.io/static/atmos.png",
-      "description":"Discussions App Beta Testing",
+      "icon": "https://cdn.novusphere.io/static/atmos.png",
+      "description": "Discussions App Beta Testing",
       "tags":{
          "test":{
             "desc":"This is a tag used for testing things!",
@@ -206,3 +207,4 @@
       ]
    }
 }
+
