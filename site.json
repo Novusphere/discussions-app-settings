@@ -5,7 +5,7 @@
       "tags":{
          "test":{
             "desc":"This is a tag used for testing things!",
-            "icon":""
+            "icon":"https://cdn.novusphere.io/static/atmos.png"
          },
          "voice":{
             "desc":"A place to discuss the upcoming social media platform, Voice.",
@@ -115,7 +115,7 @@
       "tags":{
          "test":{
             "desc":"This is a tag used for testing things!",
-            "icon":"https://i.imgur.com/6I3Q8bB.png"
+            "icon":"https://cdn.novusphere.io/static/atmos.png"
          }
       },
       "bannerImages":[
@@ -188,7 +188,7 @@
       "tags":{
          "test":{
             "desc":"This is a tag used for testing things!",
-            "icon":"https://i.imgur.com/6I3Q8bB.png"
+            "icon":"https://cdn.novusphere.io/static/atmos.png"
          }
       },
       "bannerImages":[
