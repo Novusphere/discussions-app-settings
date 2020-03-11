@@ -2,7 +2,7 @@
    "discussions.app":{
       "icon":"https://cdn.novusphere.io/static/atmos.png",
       "description":"Welcome to Discussions App! An open forum for discussions built on blockchain. Supporting and nurturing token communities of all kind",
-      "footer":"[GitHub](https://github.com/Novusphere/) - [Twitter](https://twitter.com/thenovusphere) - [Telegram](https://t.me/eosdiscussionsapp) - [Discord](https://discord.gg/udb5N4X) \n\n [Privacy Policy](https://docs.google.com/document/d/e/2PACX-1vRSHTH1e3eR1IPumj9H63XAP3_QT0kQOd5v2f_9um_3hPHi1PBJaH-XQhoguSBrXv_YdHd4s1BryVhc/pub) - User Agreement",
+      "footer":"[![](http://cdn.novusphere.io/static/discussions/icons/github.svg)](https://github.com/Novusphere/) - [![](http://cdn.novusphere.io/static/discussions/icons/twitter.svg)](https://twitter.com/thenovusphere) - [![](http://cdn.novusphere.io/static/discussions/icons/telegram.svg)](https://t.me/eosdiscussionsapp) - [![](http://cdn.novusphere.io/static/discussions/icons/discord.svg)](https://discord.gg/udb5N4X) \n\n [Privacy Policy](https://docs.google.com/document/d/e/2PACX-1vRSHTH1e3eR1IPumj9H63XAP3_QT0kQOd5v2f_9um_3hPHi1PBJaH-XQhoguSBrXv_YdHd4s1BryVhc/pub) - User Agreement",
       "tags":{
          "test":{
             "desc":"This is a **tag** used for testing things!",
