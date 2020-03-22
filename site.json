@@ -92,7 +92,8 @@
                "btc",
                "eth",
                "eos",
-               "tlos"
+               "tlos",
+               "bitcoin"
             ]
          },
          {
