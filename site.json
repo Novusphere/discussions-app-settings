@@ -63,6 +63,10 @@
          "twitter":{
             "desc":"",
             "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1583173212760.png"
+         },
+         "reddit":{
+            "desc":"",
+            "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1585222799964.png"
          }
       },
       "bannerImages":[
