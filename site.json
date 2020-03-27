@@ -67,6 +67,10 @@
          "reddit":{
             "desc":"",
             "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1585222799964.png"
+         },
+         "telegram":{
+            "desc":"",
+            "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1585267668257.png"
          }
       },
       "bannerImages":[
@@ -107,7 +111,8 @@
                "ig",
                "steemit",
                "voice",
-               "reddit"
+               "reddit",
+               "telegram"
             ]
          }
       ],
