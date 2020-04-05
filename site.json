@@ -71,6 +71,10 @@
          "telegram":{
             "desc":"",
             "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1585267668257.png"
+         },
+         "pixeos":{
+            "desc":"",
+            "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1586108115237.png"
          }
       },
       "bannerImages":[
