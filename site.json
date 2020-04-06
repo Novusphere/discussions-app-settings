@@ -83,7 +83,11 @@
          "binance":{
             "desc":"",
             "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1586176022707.png"
-         }         
+         },
+         "coronavirus":{
+            "desc":"",
+            "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1586199197806.png"
+         }                  
       },
       "bannerImages":[
          "https://i.imgur.com/WO5pb52.png"
