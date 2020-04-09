@@ -87,7 +87,11 @@
          "coronavirus":{
             "desc":"",
             "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1586199197806.png"
-         }                  
+         },
+         "newdex":{
+            "desc":"",
+            "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1586429551226.png"
+         }                          
       },
       "bannerImages":[
          "https://i.imgur.com/WO5pb52.png"
