@@ -99,7 +99,11 @@
          "covidfree_earth":{
             "desc":"",
             "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1587032581243.jpeg"
-         }
+         },
+         "bos":{
+            "desc":"",
+            "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1587976638611.png"
+         }         
 
       },
       "bannerImages":[
