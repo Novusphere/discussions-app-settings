@@ -103,7 +103,11 @@
          "bos":{
             "desc":"",
             "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1587976638611.png"
-         }         
+         },
+         "krown":{
+            "desc":"",
+            "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1589708975344.png"
+         }          
 
       },
       "bannerImages":[
