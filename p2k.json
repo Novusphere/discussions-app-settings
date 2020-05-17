@@ -83,6 +83,20 @@
             "flat":0,
             "percent":0.001
          }
+      },
+      {
+         "symbol":"KROWN",
+         "contract":"krowndactokn",
+         "precision":4,
+         "min":1,
+         "p2k":{
+            "contract":"nsuidcntract",
+            "chain":6
+         },
+         "fee":{
+            "flat":0,
+            "percent":0.001
+         }
       }
    ]
 }
