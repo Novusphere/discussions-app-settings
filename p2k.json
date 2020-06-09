@@ -29,6 +29,20 @@
          }
       },
       {
+         "symbol":"VIG",
+         "contract":"vig111111111",
+         "precision":4,
+         "min":1,
+         "p2k":{
+            "contract":"nsuidcntract",
+            "chain":7
+         },
+         "fee":{
+            "flat":0,
+            "percent":0.001
+         }
+      },
+      {
          "symbol":"BOID",
          "contract":"boidcomtoken",
          "precision":4,
