@@ -40,8 +40,8 @@
             "desc":"EOSIO is a next-generation, open-source blockchain protocol with industry- leading transaction speed and flexible utility.",
             "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1581028911491.png"
          },
-         "eoshelp":{
-            "desc":"Tokens frozen? No CPU? Ask all your EOS questions here!",
+         "help":{
+            "desc":"Answering questions about life, the universe and Discussions.app",
             "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1582818868287.png"
          },
          "tlos":{
