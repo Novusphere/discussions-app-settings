@@ -120,7 +120,11 @@
          "wax":{
             "desc":"WAX is the safest and most convenient way to create, buy, sell, and trade virtual items - to anyone, anywhere in the world.",
             "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1594035082720.png"
-         }     
+         },
+         "hongkong":{
+            "desc":"The People's Hong Kong",
+            "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1594647077161.png"
+         }                   
 
       },
       "bannerImages":[
