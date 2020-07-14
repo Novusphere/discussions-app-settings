@@ -124,7 +124,11 @@
          "hongkong":{
             "desc":"The People's Hong Kong",
             "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1594647387360.png"
-         }                   
+         },
+         "defi":{
+            "desc":"",
+            "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1594760530898.png"
+         }         
 
       },
       "bannerImages":[
