@@ -136,7 +136,15 @@
          "china":{
             "desc":"",
             "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1594809548893.png"
-         }                  
+         },
+         "bitcoin":{
+            "desc":"",
+            "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1594809709604.png"
+         },
+         "eth":{
+            "desc":"",
+            "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1594809827926.png"
+         }                                             
 
 
       },
