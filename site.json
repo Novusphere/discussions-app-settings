@@ -144,8 +144,11 @@
          "eth":{
             "desc":"",
             "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1594809827926.png"
-         }                                             
-
+         },
+         "coinbase":{
+            "desc":"",
+            "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1594817053152.png"
+         }
 
       },
       "bannerImages":[
