@@ -152,7 +152,11 @@
          "telos":{
             "desc":"",
             "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1594817908812.png"
-         }         
+         },
+         "sec":{
+            "desc":"",
+            "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1594819224996.png"
+         }                  
 
       },
       "bannerImages":[
