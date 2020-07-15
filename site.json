@@ -132,7 +132,11 @@
          "eu":{
             "desc":"",
             "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1594809023155.png"
-         }         
+         },
+         "china":{
+            "desc":"",
+            "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1594809548893.png"
+         }                  
 
 
       },
