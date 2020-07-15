@@ -148,7 +148,11 @@
          "coinbase":{
             "desc":"",
             "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1594817053152.png"
-         }
+         },
+         "telos":{
+            "desc":"",
+            "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1594817908812.png"
+         }         
 
       },
       "bannerImages":[
