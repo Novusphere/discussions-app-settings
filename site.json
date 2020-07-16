@@ -160,7 +160,11 @@
          "instagram":{
             "desc":"",
             "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1594922323298.png"
-         }                     
+         },
+         "facebook":{
+            "desc":"",
+            "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1594936819270.png"
+         }                                
 
       },
       "bannerImages":[
