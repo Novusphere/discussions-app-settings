@@ -129,5 +129,41 @@
    "defi":{
       "desc":"",
       "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1594760530898.png"
-   }
+   },
+   "eu":{
+      "desc":"",
+      "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1594809023155.png"
+   },
+   "china":{
+      "desc":"",
+      "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1594809548893.png"
+   },
+   "bitcoin":{
+      "desc":"",
+      "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1594809709604.png"
+   },
+   "eth":{
+      "desc":"",
+      "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1594809827926.png"
+   },
+   "coinbase":{
+      "desc":"",
+      "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1594817053152.png"
+   },
+   "telos":{
+      "desc":"",
+      "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1594817908812.png"
+   },
+   "sec":{
+      "desc":"",
+      "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1594819224996.png"
+   },
+   "instagram":{
+      "desc":"",
+      "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1594922323298.png"
+   },
+   "facebook":{
+      "desc":"",
+      "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1594936819270.png"
+   }      
 }
