@@ -169,5 +169,13 @@
    "facebook":{
       "desc":"",
       "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1596102713737.png"
-   }      
+   },
+   "fio":{
+      "desc":"A Decentralized Service Layer for Cryptocurrency Transactions.",
+      "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1596185914963.png"
+   },
+   "anchor":{
+      "desc":"",
+      "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1596186058441.png"
+   }                        
 }
