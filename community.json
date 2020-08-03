@@ -185,5 +185,9 @@
    "youtube":{
       "desc":"",
       "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1596445656717.png"
-   }                                            
+   },
+   "dapp":{
+      "desc":"",
+      "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1596448792933.png"
+   }                                                  
 }
