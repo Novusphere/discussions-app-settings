@@ -181,5 +181,9 @@
    "tiktok":{
       "desc":"",
       "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1596273963473.png"
-   }                                      
+   },
+   "youtube":{
+      "desc":"",
+      "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1596445656717.png"
+   }                                            
 }
