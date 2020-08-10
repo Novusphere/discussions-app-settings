@@ -9,7 +9,8 @@
    },
    "boid":{
       "desc":"BOID - The social supercomputer - where users are rewarded for contributing their spare computing power to academic research, such as medicine, meteorology, aerospace and machine learning. \n\n [![](http://cdn.novusphere.io/static/discussions/icons/github.svg)](https://github.com/boid-com) - [![](http://cdn.novusphere.io/static/discussions/icons/twitter.svg)](https://twitter.com/boidcom) - [![](http://cdn.novusphere.io/static/discussions/icons/telegram.svg)](https://t.me/Boidcom_official) - [![](http://cdn.novusphere.io/static/discussions/icons/discord.svg)](https://discordapp.com/invite/zJnRpVz) - [![](https://atmosdb.novusphere.io/discussions/upload/image/1584012485010.png)](https://newdex.io/trade/boidcomtoken-boid-eos) - [![](https://cdn.novusphere.io/static/discussions/bancor-2.svg)](https://xnation.io/eos?base=BNT&quote=BOID)",
-      "icon":"https://ndi.340wan.com/eos/boidcomtoken-boid.png"
+      "icon":"https://ndi.340wan.com/eos/boidcomtoken-boid.png",
+      "symbol": "BOID"
    },
    "mpt":{
       "desc":"MPT aims to revolutionize the metal packaging supply chain, by making it more cost-effective, eliminating or reducing the economic advantages of other less recyclable packaging materials. \n\n [![](http://cdn.novusphere.io/static/discussions/icons/twitter.svg)](https://twitter.com/MetPackToken) - [![](http://cdn.novusphere.io/static/discussions/icons/telegram.svg)](https://t.me/joinchat/GHpqDxLMYCvr2_g9PvwRCw) - [![](http://cdn.novusphere.io/static/discussions/icons/discord.svg)](https://discordapp.com/invite/zJnRpVz) - [![](https://atmosdb.novusphere.io/discussions/upload/image/1584012485010.png)](https://newdex.io/trade/metpacktoken-mpt-eos) - [![](https://cdn.novusphere.io/static/discussions/bancor-2.svg)](https://xnation.io/eos?base=BNT&quote=MPT)",
