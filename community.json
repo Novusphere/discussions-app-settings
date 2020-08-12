@@ -194,5 +194,9 @@
    "ultra":{
       "desc":"",
       "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1596461729335.png"
+   },
+   "alpacaGang":{
+      "desc":"You're in the right neighorhood.",
+      "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1597261687338.png"
    }                                                       
 }
