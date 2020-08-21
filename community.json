@@ -1,6 +1,6 @@
 {
    "test":{
-      "desc":"how does adding text before it will make it look? \n\n [![](http://cdn.novusphere.io/static/discussions/icons/github.svg)](https://github.com/Novusphere/) - [![](http://cdn.novusphere.io/static/discussions/icons/twitter.svg)](https://twitter.com/thenovusphere) - [![](http://cdn.novusphere.io/static/discussions/icons/telegram.svg)](https://t.me/eosdiscussionsapp) - [![](http://cdn.novusphere.io/static/discussions/icons/discord.svg)](https://discordapp.com/invite/zJnRpVz) - [![](https://atmosdb.novusphere.io/discussions/upload/image/1584012485010.png)](https://github.com/Novusphere/)\n\n [Privacy Policy](https://docs.google.com/document/d/e/2PACX-1vRSHTH1e3eR1IPumj9H63XAP3_QT0kQOd5v2f_9um_3hPHi1PBJaH-XQhoguSBrXv_YdHd4s1BryVhc/pub) - User Agreement",
+      "desc":"how does adding text before it will make it look? \n\n [![](https://cdn.novusphere.io/static/discussions/icons/github.svg)](https://github.com/Novusphere/) - [![](https://cdn.novusphere.io/static/discussions/icons/twitter.svg)](https://twitter.com/thenovusphere) - [![](https://cdn.novusphere.io/static/discussions/icons/telegram.svg)](https://t.me/eosdiscussionsapp) - [![](https://cdn.novusphere.io/static/discussions/icons/discord.svg)](https://discordapp.com/invite/zJnRpVz) - [![](https://atmosdb.novusphere.io/discussions/upload/image/1584012485010.png)](https://github.com/Novusphere/)\n\n [Privacy Policy](https://docs.google.com/document/d/e/2PACX-1vRSHTH1e3eR1IPumj9H63XAP3_QT0kQOd5v2f_9um_3hPHi1PBJaH-XQhoguSBrXv_YdHd4s1BryVhc/pub) - User Agreement",
       "icon":"https://cdn.novusphere.io/static/atmos.png"
    },
    "voice":{
@@ -8,27 +8,27 @@
       "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1580766216109.png"
    },
    "boid":{
-      "desc":"BOID - The social supercomputer - where users are rewarded for contributing their spare computing power to academic research, such as medicine, meteorology, aerospace and machine learning. \n\n [![](http://cdn.novusphere.io/static/discussions/icons/github.svg)](https://github.com/boid-com) - [![](http://cdn.novusphere.io/static/discussions/icons/twitter.svg)](https://twitter.com/boidcom) - [![](http://cdn.novusphere.io/static/discussions/icons/telegram.svg)](https://t.me/Boidcom_official) - [![](http://cdn.novusphere.io/static/discussions/icons/discord.svg)](https://discordapp.com/invite/zJnRpVz) - [![](https://atmosdb.novusphere.io/discussions/upload/image/1584012485010.png)](https://newdex.io/trade/boidcomtoken-boid-eos) - [![](https://cdn.novusphere.io/static/discussions/bancor-2.svg)](https://xnation.io/eos?base=BNT&quote=BOID)",
+      "desc":"BOID - The social supercomputer - where users are rewarded for contributing their spare computing power to academic research, such as medicine, meteorology, aerospace and machine learning. \n\n [![](https://cdn.novusphere.io/static/discussions/icons/github.svg)](https://github.com/boid-com) - [![](https://cdn.novusphere.io/static/discussions/icons/twitter.svg)](https://twitter.com/boidcom) - [![](https://cdn.novusphere.io/static/discussions/icons/telegram.svg)](https://t.me/Boidcom_official) - [![](https://cdn.novusphere.io/static/discussions/icons/discord.svg)](https://discordapp.com/invite/zJnRpVz) - [![](https://atmosdb.novusphere.io/discussions/upload/image/1584012485010.png)](https://newdex.io/trade/boidcomtoken-boid-eos) - [![](https://cdn.novusphere.io/static/discussions/bancor-2.svg)](https://xnation.io/eos?base=BNT&quote=BOID)",
       "icon":"https://ndi.340wan.com/eos/boidcomtoken-boid.png",
       "symbol": "BOID"
    },
    "mpt":{
-      "desc":"MPT aims to revolutionize the metal packaging supply chain, by making it more cost-effective, eliminating or reducing the economic advantages of other less recyclable packaging materials. \n\n [![](http://cdn.novusphere.io/static/discussions/icons/twitter.svg)](https://twitter.com/MetPackToken) - [![](http://cdn.novusphere.io/static/discussions/icons/telegram.svg)](https://t.me/joinchat/GHpqDxLMYCvr2_g9PvwRCw) - [![](http://cdn.novusphere.io/static/discussions/icons/discord.svg)](https://discordapp.com/invite/zJnRpVz) - [![](https://atmosdb.novusphere.io/discussions/upload/image/1584012485010.png)](https://newdex.io/trade/metpacktoken-mpt-eos) - [![](https://cdn.novusphere.io/static/discussions/bancor-2.svg)](https://xnation.io/eos?base=BNT&quote=MPT)",
+      "desc":"MPT aims to revolutionize the metal packaging supply chain, by making it more cost-effective, eliminating or reducing the economic advantages of other less recyclable packaging materials. \n\n [![](https://cdn.novusphere.io/static/discussions/icons/twitter.svg)](https://twitter.com/MetPackToken) - [![](https://cdn.novusphere.io/static/discussions/icons/telegram.svg)](https://t.me/joinchat/GHpqDxLMYCvr2_g9PvwRCw) - [![](https://cdn.novusphere.io/static/discussions/icons/discord.svg)](https://discordapp.com/invite/zJnRpVz) - [![](https://atmosdb.novusphere.io/discussions/upload/image/1584012485010.png)](https://newdex.io/trade/metpacktoken-mpt-eos) - [![](https://cdn.novusphere.io/static/discussions/bancor-2.svg)](https://xnation.io/eos?base=BNT&quote=MPT)",
       "icon":"https://ndi.340wan.com/eos/metpacktoken-mpt.png",
       "symbol": "MPT"
    },
    "puml":{
-      "desc":"PUML rewards its members to complete step & physical activity challenges with it's blockchain tokens, which can be spent on health/fitness products & services. \n\n [![](http://cdn.novusphere.io/static/discussions/icons/github.svg)](https://github.com/pumlapp) - [![](http://cdn.novusphere.io/static/discussions/icons/twitter.svg)](https://twitter.com/pumlhealthio) - [![](http://cdn.novusphere.io/static/discussions/icons/telegram.svg)](https://t.me/pumlofficial)",
+      "desc":"PUML rewards its members to complete step & physical activity challenges with it's blockchain tokens, which can be spent on health/fitness products & services. \n\n [![](https://cdn.novusphere.io/static/discussions/icons/github.svg)](https://github.com/pumlapp) - [![](https://cdn.novusphere.io/static/discussions/icons/twitter.svg)](https://twitter.com/pumlhealthio) - [![](https://cdn.novusphere.io/static/discussions/icons/telegram.svg)](https://t.me/pumlofficial)",
       "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1580767039384.png",
       "symbol": "PUML"
    },
    "bbt":{
-      "desc":"BlockBase is a distributed system that applies many of blockchain related paradigms to provide secure and distributed database storage services. \n\n [![](http://cdn.novusphere.io/static/discussions/icons/github.svg)](https://github.com/blockbasenetwork/documentation) - [![](http://cdn.novusphere.io/static/discussions/icons/twitter.svg)](https://t.me/BlockBaseNetwork) - [![](http://cdn.novusphere.io/static/discussions/icons/telegram.svg)](https://t.me/BlockBaseNetwork) - [![](https://atmosdb.novusphere.io/discussions/upload/image/1584012485010.png)](https://newdex.io/trade/blockbasetkn-bbt-eos)",
+      "desc":"BlockBase is a distributed system that applies many of blockchain related paradigms to provide secure and distributed database storage services. \n\n [![](https://cdn.novusphere.io/static/discussions/icons/github.svg)](https://github.com/blockbasenetwork/documentation) - [![](https://cdn.novusphere.io/static/discussions/icons/twitter.svg)](https://t.me/BlockBaseNetwork) - [![](https://cdn.novusphere.io/static/discussions/icons/telegram.svg)](https://t.me/BlockBaseNetwork) - [![](https://atmosdb.novusphere.io/discussions/upload/image/1584012485010.png)](https://newdex.io/trade/blockbasetkn-bbt-eos)",
       "icon":"https://ndi.340wan.com/eos/blockbasetkn-bbt.png",
       "symbol": "BBT"
    },
    "atmos":{
-      "desc":"ATMOS powers Discussions.app. With transaction fees going to token holders. \n\n [![](http://cdn.novusphere.io/static/discussions/icons/github.svg)](https://github.com/Novusphere/) - [![](http://cdn.novusphere.io/static/discussions/icons/twitter.svg)](https://twitter.com/thenovusphere) - [![](http://cdn.novusphere.io/static/discussions/icons/telegram.svg)](https://t.me/eosdiscussionsapp) - [![](http://cdn.novusphere.io/static/discussions/icons/discord.svg)](https://discord.gg/udb5N4X) - [![](https://atmosdb.novusphere.io/discussions/upload/image/1584012485010.png)](https://newdex.io/trade/novusphereio-atmos-eos) - [![](https://cdn.novusphere.io/static/discussions/bancor-2.svg)](https://xnation.io/eos?base=BNT&quote=ATMOS)",
+      "desc":"ATMOS powers Discussions.app. With transaction fees going to token holders. \n\n [![](https://cdn.novusphere.io/static/discussions/icons/github.svg)](https://github.com/Novusphere/) - [![](https://cdn.novusphere.io/static/discussions/icons/twitter.svg)](https://twitter.com/thenovusphere) - [![](https://cdn.novusphere.io/static/discussions/icons/telegram.svg)](https://t.me/eosdiscussionsapp) - [![](https://cdn.novusphere.io/static/discussions/icons/discord.svg)](https://discord.gg/udb5N4X) - [![](https://atmosdb.novusphere.io/discussions/upload/image/1584012485010.png)](https://newdex.io/trade/novusphereio-atmos-eos) - [![](https://cdn.novusphere.io/static/discussions/bancor-2.svg)](https://xnation.io/eos?base=BNT&quote=ATMOS)",
       "icon":"https://cdn.novusphere.io/static/logo.png",
       "symbol": "ATMOS"
    },
@@ -78,7 +78,7 @@
       "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1586108115237.png"
    },
    "govrn":{
-      "desc":"Decentralized, on-chain, incentive based governance layer for any social organization. \n\n [![](http://cdn.novusphere.io/static/discussions/icons/github.svg)](https://github.com/n0umen0n/ConsortiumSC) - [![](http://cdn.novusphere.io/static/discussions/icons/twitter.svg)](https://twitter.com/ConsortiumDAC) - [![](http://cdn.novusphere.io/static/discussions/icons/telegram.svg)](https://t.me/consortiumdac) - [![](https://cdn.novusphere.io/static/discussions/bancor-2.svg)](https://xnation.io/eos?base=EOS&quote=GOVRN)",
+      "desc":"Decentralized, on-chain, incentive based governance layer for any social organization. \n\n [![](https://cdn.novusphere.io/static/discussions/icons/github.svg)](https://github.com/n0umen0n/ConsortiumSC) - [![](https://cdn.novusphere.io/static/discussions/icons/twitter.svg)](https://twitter.com/ConsortiumDAC) - [![](https://cdn.novusphere.io/static/discussions/icons/telegram.svg)](https://t.me/consortiumdac) - [![](https://cdn.novusphere.io/static/discussions/bancor-2.svg)](https://xnation.io/eos?base=EOS&quote=GOVRN)",
       "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1586110318589.png"
    },
    "binance":{
@@ -94,7 +94,7 @@
       "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1586429551226.png"
    },
    "nco":{
-      "desc":"NovaCrypto (NCO) is a Swiss startup that aims to create a high security blockchain based liquid market of software licences. \n\n [![](http://cdn.novusphere.io/static/discussions/icons/twitter.svg)](https://twitter.com/NovaCryptoLTD) - [![](https://cdn.novusphere.io/static/discussions/bancor-2.svg)](https://deweb.eosnation.io/#/NCO)",
+      "desc":"NovaCrypto (NCO) is a Swiss startup that aims to create a high security blockchain based liquid market of software licences. \n\n [![](https://cdn.novusphere.io/static/discussions/icons/twitter.svg)](https://twitter.com/NovaCryptoLTD) - [![](https://cdn.novusphere.io/static/discussions/bancor-2.svg)](https://deweb.eosnation.io/#/NCO)",
       "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1586982315358.jpeg"
    },
    "covidfree_earth":{
@@ -106,7 +106,7 @@
       "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1587976638611.png"
    },
    "krown":{
-      "desc":"KROWN DAC makes tools to activate communities. The KROWN DAC has been initiated to provide a set of equitable tools for community and product leaders as well as members within communities. \n\n [![](http://cdn.novusphere.io/static/discussions/icons/twitter.svg)](https://twitter.com/krowndac) - [![](http://cdn.novusphere.io/static/discussions/icons/telegram.svg)](https://t.me/krowntoken) - [![](https://atmosdb.novusphere.io/discussions/upload/image/1584012485010.png)](https://newdex.io/trade/krowndactokn-krown-eos)",
+      "desc":"KROWN DAC makes tools to activate communities. The KROWN DAC has been initiated to provide a set of equitable tools for community and product leaders as well as members within communities. \n\n [![](https://cdn.novusphere.io/static/discussions/icons/twitter.svg)](https://twitter.com/krowndac) - [![](https://cdn.novusphere.io/static/discussions/icons/telegram.svg)](https://t.me/krowntoken) - [![](https://atmosdb.novusphere.io/discussions/upload/image/1584012485010.png)](https://newdex.io/trade/krowndactokn-krown-eos)",
       "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1589708975344.png",
       "symbol": "KROWN"
    },
@@ -115,7 +115,7 @@
       "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1590426033267.png"
    },
    "vigor":{
-      "desc":"Vigor is a P2P decentralized automated Borrow, Lend, & Save platform powered by the EOS public blockchain. Join and help reDEFIne finance with the Vigor DAC & Protocol at [vigor.ai](https://vigor.ai). \n\n [![](http://cdn.novusphere.io/static/discussions/icons/github.svg)](https://gitlab.com/vigorstablecoin) - [![](http://cdn.novusphere.io/static/discussions/icons/twitter.svg)](https://twitter.com/vigorprotocol) - [![](http://cdn.novusphere.io/static/discussions/icons/telegram.svg)](https://t.me/vigorprotocol) - [![](https://atmosdb.novusphere.io/discussions/upload/image/1584012485010.png)](https://newdex.io/trade/vig111111111-vig-eos)",
+      "desc":"Vigor is a P2P decentralized automated Borrow, Lend, & Save platform powered by the EOS public blockchain. Join and help reDEFIne finance with the Vigor DAC & Protocol at [vigor.ai](https://vigor.ai). \n\n [![](https://cdn.novusphere.io/static/discussions/icons/github.svg)](https://gitlab.com/vigorstablecoin) - [![](https://cdn.novusphere.io/static/discussions/icons/twitter.svg)](https://twitter.com/vigorprotocol) - [![](https://cdn.novusphere.io/static/discussions/icons/telegram.svg)](https://t.me/vigorprotocol) - [![](https://atmosdb.novusphere.io/discussions/upload/image/1584012485010.png)](https://newdex.io/trade/vig111111111-vig-eos)",
       "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1593943924747.png",
       "symbol":"VIG"
    },
