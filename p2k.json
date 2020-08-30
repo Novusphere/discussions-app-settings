@@ -29,20 +29,6 @@
          }
       },
       {
-         "symbol":"VIG",
-         "contract":"vig111111111",
-         "precision":4,
-         "min":1,
-         "p2k":{
-            "contract":"nsuidcntract",
-            "chain":7
-         },
-         "fee":{
-            "flat":0,
-            "percent":0.001
-         }
-      },
-      {
          "symbol":"BOID",
          "contract":"boidcomtoken",
          "precision":4,
@@ -106,6 +92,104 @@
          "p2k":{
             "contract":"nsuidcntract",
             "chain":6
+         },
+         "fee":{
+            "flat":0,
+            "percent":0.001
+         }
+      },
+      {
+         "symbol":"VIG",
+         "contract":"vig111111111",
+         "precision":4,
+         "min":1,
+         "p2k":{
+            "contract":"nsuidcntract",
+            "chain":7
+         },
+         "fee":{
+            "flat":0,
+            "percent":0.001
+         }
+      },
+      {
+         "symbol":"NDX",
+         "contract":"newdexissuer",
+         "precision":4,
+         "min":1,
+         "p2k":{
+            "contract":"nsuidcntract",
+            "chain":8
+         },
+         "fee":{
+            "flat":0,
+            "percent":0.001
+         }
+      },
+      {
+         "symbol":"IQ",
+         "contract":"everipediaiq",
+         "precision":3,
+         "min":1,
+         "p2k":{
+            "contract":"nsuidcntract",
+            "chain":9
+         },
+         "fee":{
+            "flat":0,
+            "percent":0.001
+         }
+      },
+      {
+         "symbol":"OGX",
+         "contract":"organixtoken",
+         "precision":4,
+         "min":1,
+         "p2k":{
+            "contract":"nsuidcntract",
+            "chain":10
+         },
+         "fee":{
+            "flat":0,
+            "percent":0.001
+         }
+      },
+      {
+         "symbol":"PIZZA",
+         "contract":"pizzatotoken",
+         "precision":4,
+         "min":1,
+         "p2k":{
+            "contract":"nsuidcntract",
+            "chain":11
+         },
+         "fee":{
+            "flat":0,
+            "percent":0.001
+         }
+      },
+      {
+         "symbol":"DFS",
+         "contract":"minedfstoken",
+         "precision":4,
+         "min":1,
+         "p2k":{
+            "contract":"nsuidcntract",
+            "chain":12
+         },
+         "fee":{
+            "flat":0,
+            "percent":0.001
+         }
+      },
+      {
+         "symbol":"EOSDT",
+         "contract":"eosdtsttoken",
+         "precision":9,
+         "min":1,
+         "p2k":{
+            "contract":"nsuidcntract",
+            "chain":13
          },
          "fee":{
             "flat":0,
