@@ -212,22 +212,27 @@
       "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1598289146847.png"
    },
    "iq":{
+      "symbol":"IQ",
       "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1598809806784.png",
       "desc":""
    },
    "ogx":{
+      "symbol":"OGX",
       "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1598811437385.png",
       "desc":""
    },
    "pizza":{
+      "symbol":"PIZZA",
       "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1598811500842.png",
       "desc":""
    },
    "dfs":{
+      "symbol":"DFS",
       "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1598811896309.png",
       "desc":""
    },
    "eosdt":{
+      "symbol":"EOSDT",
       "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1598811965105.png",
       "desc":""
    }
