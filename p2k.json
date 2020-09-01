@@ -195,6 +195,20 @@
             "flat":0,
             "percent":0.001
          }
+      },
+      {
+         "symbol":"BOX",
+         "contract":"token.defi",
+         "precision":6,
+         "min":1,
+         "p2k":{
+            "contract":"nsuidcntract",
+            "chain":14
+         },
+         "fee":{
+            "flat":0,
+            "percent":0.001
+         }
       }
    ]
 }
