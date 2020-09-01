@@ -235,5 +235,10 @@
       "symbol":"EOSDT",
       "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1598811965105.png",
       "desc":""
+   },
+   "box":{
+      "symbol":"BOX",
+      "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1598914586802.png",      
+      "desc":"A professional one-stop DeFi application platform on EOS"
    }
 }
