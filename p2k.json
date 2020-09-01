@@ -200,7 +200,7 @@
          "symbol":"BOX",
          "contract":"token.defi",
          "precision":6,
-         "min":1,
+         "min":0.01,
          "p2k":{
             "contract":"nsuidcntract",
             "chain":14
