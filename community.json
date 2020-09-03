@@ -240,5 +240,10 @@
       "symbol":"BOX",
       "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1598914586802.png",      
       "desc":"A professional one-stop DeFi application platform on EOS"
-   }
+   },
+    "smart": {
+      "symbol":"SMART",
+      "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1599133344879.png",
+      "desc":"SmartCash is a project born out of the desire to create a viable, fast, merchant oriented, user friendly and community driven cryptocurrency with a decentralized governance system."
+    }
 }
