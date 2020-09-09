@@ -245,5 +245,10 @@
       "symbol":"SMART",
       "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1599133344879.png",
       "desc":"SmartCash is a project born out of the desire to create a viable, fast, merchant oriented, user friendly and community driven cryptocurrency with a decentralized governance system."
-    }
+   },
+    "bitshares": {
+      "symbol":"BTS",
+      "icon":"https://atmosdb.novusphere.io/discussions/upload/image/1599658281764.png",
+      "desc":"Bitshares is a peer-to-peer distributed ledger and network that can issue collateralized market-pegged smart coins known as bitAssets."
+    }       
 }
