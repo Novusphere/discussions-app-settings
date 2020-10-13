@@ -250,6 +250,7 @@
       "symbol":"BTS",
       "icon":"https://s2.discussions.app/v1/api/upload/file/1599658281764.png",
       "desc":"Bitshares is a peer-to-peer distributed ledger and network that can issue collateralized market-pegged smart coins known as bitAssets."
+<<<<<<< HEAD
    },
    "nextcloud":{
       "symbol":"",
@@ -257,3 +258,7 @@
       "desc":""
    }
 }
+=======
+    }       
+}
+>>>>>>> parent of e693508... added nextcloud icon
