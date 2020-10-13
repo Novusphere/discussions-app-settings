@@ -238,23 +238,22 @@
    },
    "box":{
       "symbol":"BOX",
-      "icon":"https://s2.discussions.app/v1/api/upload/file/1602595202872.png",      
+      "icon":"https://s2.discussions.app/v1/api/upload/file/1602595202872.png",
       "desc":"A professional one-stop DeFi application platform on EOS"
    },
-    "smart": {
+   "smart":{
       "symbol":"SMART",
       "icon":"https://s2.discussions.app/v1/api/upload/file/1599133344879.png",
       "desc":"SmartCash is a project born out of the desire to create a viable, fast, merchant oriented, user friendly and community driven cryptocurrency with a decentralized governance system."
    },
-    "bitshares": {
+   "bitshares":{
       "symbol":"BTS",
       "icon":"https://s2.discussions.app/v1/api/upload/file/1599658281764.png",
       "desc":"Bitshares is a peer-to-peer distributed ledger and network that can issue collateralized market-pegged smart coins known as bitAssets."
    },
-    "nextcloud": {
+   "nextcloud":{
       "symbol":"",
       "icon":"https://s2.discussions.app/v1/api/upload/file/1602594943444.png",
       "desc":""
-    },
-
+   }
 }
