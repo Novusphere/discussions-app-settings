@@ -218,8 +218,8 @@
    },
    "ogx":{
       "symbol":"OGX",
-      "icon":"https://s2.discussions.app/v1/api/upload/file/1598811437385.png",
-      "desc":""
+      "icon":"https://s2.discussions.app/v1/api/upload/file/1602595119528.png",
+      "desc":"OGX is the basic token on Organix protocol, which can be used as collateral to mint oUSD. oUSD is the stable coin in the whole system, the system always values 1 oUSD at 1 USD. Assets can be exchanged with oUSD on the synthethic exchange of Organix system through prices supplied by an oracle, included but not limited to fiat currencies, commodities, cryptocurrencies and their inverse assets."
    },
    "pizza":{
       "symbol":"PIZZA",
