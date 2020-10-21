@@ -224,6 +224,21 @@
             "flat":0,
             "percent":0.001
          }
+      },
+      {
+         "chain":"telos",
+         "symbol":"TLOS",
+         "contract":"eosio.token",
+         "precision":4,
+         "min":0.1,
+         "p2k":{
+            "contract":"nsuidcntract",
+            "chain":0
+         },
+         "fee":{
+            "flat":0,
+            "percent":0.001
+         }
       }
    ]
 }
