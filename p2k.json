@@ -1,6 +1,7 @@
 {
    "p2k":[
       {
+         "chain":"eos",
          "symbol":"ATMOS",
          "contract":"novusphereio",
          "precision":3,
@@ -15,6 +16,7 @@
          }
       },
       {
+         "chain":"eos",
          "symbol":"EOS",
          "contract":"eosio.token",
          "precision":4,
@@ -29,6 +31,7 @@
          }
       },
       {
+         "chain":"eos",
          "symbol":"BOID",
          "contract":"boidcomtoken",
          "precision":4,
@@ -43,6 +46,7 @@
          }
       },
       {
+         "chain":"eos",
          "symbol":"MPT",
          "contract":"metpacktoken",
          "precision":4,
@@ -57,6 +61,7 @@
          }
       },
       {
+         "chain":"eos",
          "symbol":"PUML",
          "contract":"pumlhealthio",
          "precision":4,
@@ -71,6 +76,7 @@
          }
       },
       {
+         "chain":"eos",
          "symbol":"BBT",
          "contract":"blockbasetkn",
          "precision":4,
@@ -85,6 +91,7 @@
          }
       },
       {
+         "chain":"eos",
          "symbol":"KROWN",
          "contract":"krowndactokn",
          "precision":4,
@@ -99,6 +106,7 @@
          }
       },
       {
+         "chain":"eos",
          "symbol":"VIG",
          "contract":"vig111111111",
          "precision":4,
@@ -113,6 +121,7 @@
          }
       },
       {
+         "chain":"eos",
          "symbol":"NDX",
          "contract":"newdexissuer",
          "precision":4,
@@ -127,6 +136,7 @@
          }
       },
       {
+         "chain":"eos",
          "symbol":"IQ",
          "contract":"everipediaiq",
          "precision":3,
@@ -141,6 +151,7 @@
          }
       },
       {
+         "chain":"eos",
          "symbol":"OGX",
          "contract":"organixtoken",
          "precision":4,
@@ -155,6 +166,7 @@
          }
       },
       {
+         "chain":"eos",
          "symbol":"PIZZA",
          "contract":"pizzatotoken",
          "precision":4,
@@ -169,6 +181,7 @@
          }
       },
       {
+         "chain":"eos",
          "symbol":"DFS",
          "contract":"minedfstoken",
          "precision":4,
@@ -183,6 +196,7 @@
          }
       },
       {
+         "chain":"eos",
          "symbol":"EOSDT",
          "contract":"eosdtsttoken",
          "precision":9,
@@ -197,6 +211,7 @@
          }
       },
       {
+         "chain":"eos",
          "symbol":"BOX",
          "contract":"token.defi",
          "precision":6,
