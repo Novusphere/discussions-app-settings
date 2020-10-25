@@ -260,5 +260,10 @@
       "symbol":"",
       "icon":"https://s2.discussions.app/v1/api/upload/file/1603642799851.png",
       "desc":"A company of Alphabet"
-   }         
+   },
+   "discussionsdev":{
+      "symbol":"",
+      "icon":"https://s2.discussions.app/v1/api/upload/file/1603667545549.png",
+      "desc":"A place to discuss how to build better Discussions"
+   }            
 }
