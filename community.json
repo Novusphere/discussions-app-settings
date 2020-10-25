@@ -255,5 +255,10 @@
       "symbol":"",
       "icon":"https://s2.discussions.app/v1/api/upload/file/1602969908151.png",
       "desc":"Thoughts that hangs around"
-   }   
+   },
+   "google":{
+      "symbol":"",
+      "icon":"https://s2.discussions.app/v1/api/upload/file/1603642799851.png",
+      "desc":"A company of Alphabet"
+   }         
 }
