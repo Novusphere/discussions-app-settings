@@ -266,5 +266,10 @@
       "symbol":"",
       "icon":"https://s2.discussions.app/v1/api/upload/file/1603667545549.png",
       "desc":"A place to discuss how to build better Discussions"
-   }            
+   },
+   "welcometotelos":{
+      "symbol":"",
+      "icon":"https://s2.discussions.app/v1/api/upload/file/1605535017876.png",
+      "desc":""
+   }                  
 }
