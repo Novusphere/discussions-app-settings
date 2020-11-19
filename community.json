@@ -276,5 +276,10 @@
       "symbol":"USDT",
       "icon":"https://s2.discussions.app/v1/api/upload/file/1605790283317.png",
       "desc":""
-   }                               
+   },
+   "wombat":{
+      "symbol":"",
+      "icon":"https://s2.discussions.app/v1/api/upload/file/1605796371462.png",
+      "desc":""
+   }                                    
 }
