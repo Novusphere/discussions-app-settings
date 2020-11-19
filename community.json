@@ -271,5 +271,10 @@
       "symbol":"TLOS",
       "icon":"https://s2.discussions.app/v1/api/upload/file/1605535017876.png",
       "desc":""
-   }                  
+   },
+   "USDT":{
+      "symbol":"USDT",
+      "icon":"https://s2.discussions.app/v1/api/upload/file/1605790283317.png",
+      "desc":""
+   }                               
 }
