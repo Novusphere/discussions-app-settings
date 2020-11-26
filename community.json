@@ -210,7 +210,8 @@
    },
    "atmosarmy":{
       "desc":"",
-      "icon":"https://s2.discussions.app/v1/api/upload/file/1598289146847.png"
+      "icon":"https://s2.discussions.app/v1/api/upload/file/1598289146847.png",
+      "symbol":"ATMOS"
    },
    "everipedia":{
       "icon":"https://s2.discussions.app/v1/api/upload/file/1602595313445.png",
