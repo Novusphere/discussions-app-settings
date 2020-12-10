@@ -282,5 +282,15 @@
       "symbol":"",
       "icon":"https://s2.discussions.app/v1/api/upload/file/1605796371462.png",
       "desc":"Wombat is the the most simple EOS & Telos wallet to access Games and Defi with free accounts and transactions."
-   }                                    
+   },
+   "qbe":{
+      "symbol":"QBE",
+      "icon":"https://s2.discussions.app/v1/api/upload/file/1607626692282.png",
+      "desc":"Qubicles is the next global phase in contact center services, bringing together employers and agents through its decentralized network."
+   },  
+   "kanda":{
+      "symbol":"KANDA",
+      "icon":"https://s2.discussions.app/v1/api/upload/file/1607626806289.png",
+      "desc":"Telokanda is a Telos Smart Contract + EOSIO + Steem based social advertising platform where users can buy and sell ads and get rewarded for taking actions"
+   }                                            
 }
