@@ -292,5 +292,30 @@
       "symbol":"KANDA",
       "icon":"https://s2.discussions.app/v1/api/upload/file/1607626806289.png",
       "desc":"Telokanda is a Telos Smart Contract + EOSIO + Steem based social advertising platform where users can buy and sell ads and get rewarded for taking actions"
-   }                                            
+   },
+   "tlosdac":{
+      "symbol":"TLOSDAC",
+      "icon":"https://s2.discussions.app/v1/api/upload/file/1607628818820.png",
+      "desc":"TelosDAC is a community owned block producer on various EOSIO blockchains. The TlosDAC token will be used by members to exercise their stake in the BP through custodian elections, support for worker proposals and project selection."
+   },
+   "sqrl":{
+      "symbol":"SQRL",
+      "icon":"https://s2.discussions.app/v1/api/upload/file/1607628750903.png",
+      "desc":"The SQRL token provides free CPU and NET to Telos users, as well as VIP status for consuming (or purchasing) various quantities of SQRL tokens within the wallet."
+   },
+   "gem":{
+      "symbol":"GEM",
+      "icon":"https://s2.discussions.app/v1/api/upload/file/1607628884483.png",
+      "desc":"GEM is a utility token for all Gemslab games. Starting with Angry Warlord, you can use your GEM token to upgrade your players and buy new abilities in the game."
+   },
+   "sand":{
+      "symbol":"SAND",
+      "icon":"https://s2.discussions.app/v1/api/upload/file/1607628921893.png",
+      "desc":"San Diego Coin SAND is a local blockchain cryptocurrency and social media dapp where every City Resident gets 1 token"
+   },
+   "seeds":{
+      "symbol":"SEEDS",
+      "icon":"https://s2.discussions.app/v1/api/upload/file/1607628959181.png",
+      "desc":"SEEDS is Changing the Game by Changing Money SEEDS isn’t just a better way to pay. It’s a solution to the greatest crises of our time. It’s a digital currency and financial system like we’ve never had access to before. One that serves, rewards and finances the people and organisations committed to creating a healthier and more equitable planet."
+   }                                                                          
 }
