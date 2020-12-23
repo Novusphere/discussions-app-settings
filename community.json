@@ -317,5 +317,10 @@
       "symbol":"SEEDS",
       "icon":"https://s2.discussions.app/v1/api/upload/file/1607628959181.png",
       "desc":"SEEDS is Changing the Game by Changing Money SEEDS isn’t just a better way to pay. It’s a solution to the greatest crises of our time. It’s a digital currency and financial system like we’ve never had access to before. One that serves, rewards and finances the people and organisations committed to creating a healthier and more equitable planet."
-   }                                                                          
+   },
+   "alcor":{
+      "symbol":"",
+      "icon":"https://s2.discussions.app/v1/api/upload/file/1608735544134.png",
+      "desc":"Alcor.exchange is a DEX provides limit/market trading(onchain matching) with zero fee, implemented entirely on contracts, with the ability to independently open new markets(self-listing)."
+   }                                                                                
 }
