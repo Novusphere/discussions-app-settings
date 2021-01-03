@@ -239,6 +239,36 @@
             "flat":0,
             "percent":0.001
          }
+      },
+      {
+         "chain":"telos",
+         "symbol":"SQRL",
+         "contract":"sqrlwalletio",
+         "precision":4,
+         "min":0.1,
+         "p2k":{
+            "contract":"nsuidcntract",
+            "chain":1
+         },
+         "fee":{
+            "flat":0,
+            "percent":0.001
+         }
+      },
+      {
+         "chain":"telos",
+         "symbol":"GEM",
+         "contract":"lord",
+         "precision":4,
+         "min":0.1,
+         "p2k":{
+            "contract":"nsuidcntract",
+            "chain":2
+         },
+         "fee":{
+            "flat":0,
+            "percent":0.001
+         }
       }
    ]
 }
