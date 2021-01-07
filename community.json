@@ -322,5 +322,10 @@
       "symbol":"",
       "icon":"https://s2.discussions.app/v1/api/upload/file/1608735544134.png",
       "desc":"Alcor.exchange is a DEX provides limit/market trading(onchain matching) with zero fee, implemented entirely on contracts, with the ability to independently open new markets(self-listing)."
-   }                                                                                
+   },
+   "doge":{
+      "symbol":"",
+      "icon":"",
+      "desc":"Much Coin, So wow."
+   }                                                                                   
 }
