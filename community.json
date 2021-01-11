@@ -327,5 +327,10 @@
       "symbol":"",
       "icon":"https://s2.discussions.app/v1/api/upload/file/1610060263046.png",
       "desc":"Much Coin, So wow."
-   }                                                                                   
+   },
+   "parler":{
+      "symbol":"",
+      "icon":"https://s2.discussions.app/v1/api/upload/file/1610394449526.png",
+      "desc":"Parler is an unbiased social media focused on real user experiences and engagement. Free expression without violence and no censorship."
+   }                                                                                                  
 }
