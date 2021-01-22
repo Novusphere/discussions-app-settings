@@ -336,5 +336,10 @@
       "symbol":"",
       "icon":"https://s2.discussions.app/v1/api/upload/file/1610394449526.png",
       "desc":"Parler is an unbiased social media focused on real user experiences and engagement. Free expression without violence and no censorship."
-   }                                                                                                  
+   },
+   "link":{
+      "symbol":"",
+      "icon":"https://s2.discussions.app/v1/api/upload/file/1611235918892.png",
+      "desc":"Chainlink (LINK) is a decentralized oracle network which aims to connect smart contracts with data from the real world."
+   }                                                                                                         
 }
