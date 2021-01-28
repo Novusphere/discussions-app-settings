@@ -299,6 +299,21 @@
             "flat":0,
             "percent":0.001
          }
+      },
+      {
+         "chain":"telos",
+         "symbol":"EZAR",
+         "contract":"stablecoin.z",
+         "precision":2,
+         "min":0.1,
+         "p2k":{
+            "contract":"nsuidcntract",
+            "chain":5
+         },
+         "fee":{
+            "flat":0,
+            "percent":0.01
+         }
       }
    ]
 }
