@@ -371,6 +371,11 @@
       "symbol":"EZAR",
       "icon":"https://s2.discussions.app/v1/api/upload/file/1611527917141.png",
       "desc":"EZAR is a full reserve backed South African Rand backed stable coin running on the Telos blockchain. It was created to provide a simple pathway from South African Rand to Telos and Telos tokens. It serves as the fiat onramp / offramp for Telos blockchain projects in Southern Africa and may be used in combination with other tokens in cross border transfers."
-   }                  
+   },
+   "wallstreetbets":{
+      "symbol":"https://s2.discussions.app/v1/api/upload/file/1611838273979.png",
+      "icon":"https://s2.discussions.app/v1/api/upload/file/1611527917141.png",
+      "desc":"Making Hedge Funds on Wall Street smaller and making your bag bigger."
+   }                                       
 
 }
