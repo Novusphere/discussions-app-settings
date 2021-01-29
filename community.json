@@ -381,6 +381,20 @@
       "symbol":"",
       "icon":"https://s2.discussions.app/v1/api/upload/file/1611925965169.png",
       "desc":"The leading electric automotive company"
-   }                                           
-
+   },                                           
+   "matic":{
+      "symbol":"",
+      "icon":"https://s2.discussions.app/v1/api/upload/file/1611950522262.png",
+      "desc":"Matic Network is a Layer 2 scaling solution backed by Binance and Coinbase that aims to provide a generalized Layer 2 platform, enabling Ethereum developers to scale their DApps for large-scale usage. For the initial phase, Matic has launched its hybrid PoS+Plasma sidechain on top of Ethereum."
+   },
+   "loopring":{
+      "symbol":"",
+      "icon":"https://s2.discussions.app/v1/api/upload/file/1611950610194.png",
+      "desc":"LRC is the Ethereum-based cryptocurrency token of Loopring, an open protocol designed for the building of decentralized crypto exchanges."
+   },            
+   "snx":{
+      "symbol":"",
+      "icon":"https://s2.discussions.app/v1/api/upload/file/1611950708678.png",
+      "desc":"Synthetix is a derivatives liquidity protocol on Ethereum that enables the issuance and trading of synthetic assets."
+   }   
 }
