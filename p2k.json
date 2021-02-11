@@ -314,6 +314,21 @@
             "flat":0,
             "percent":0.01
          }
+      },
+      {
+         "chain":"telos",
+         "symbol":"DRIC",
+         "contract":"persiandaric",
+         "precision":4,
+         "min":0.1,
+         "p2k":{
+            "contract":"nsuidcntract",
+            "chain":6
+         },
+         "fee":{
+            "flat":0,
+            "percent":0.001
+         }
       }
    ]
 }
