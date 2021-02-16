@@ -406,5 +406,10 @@
       "symbol":"DRIC",
       "icon":"https://s2.discussions.app/v1/api/upload/file/1612432993047.png",
       "desc":"In AreaX, you can use DRIC for buying boosts, participate in events, fill energy, buying avatars and some badges. Also, you can get DRIC token by wining the events, daily and hourly rewards and training brain games.Also, DRIC will used in Crypto Planet game in the future."
-   }           
+   },
+   "grt":{
+      "symbol":"",
+      "icon":"https://s2.discussions.app/v1/api/upload/file/1613502078179.png",
+      "desc":"The Graph is an indexing protocol for querying data for networks like Ethereum and IPFS, powering many applications in both DeFi and the broader Web3 ecosystem."
+   }          
 }
