@@ -411,5 +411,10 @@
       "symbol":"",
       "icon":"https://s2.discussions.app/v1/api/upload/file/1613502078179.png",
       "desc":"The Graph is an indexing protocol for querying data for networks like Ethereum and IPFS, powering many applications in both DeFi and the broader Web3 ecosystem."
-   }          
+   },
+   "chl":{
+      "symbol":"",
+      "icon":"https://s2.discussions.app/v1/api/upload/file/1614001733791.png",
+      "desc":"ChallengeEOS App is a Geo-specific and task challenge app used to set up or receive crypto-based challenges. The challenge receivers are able to unlock Crypto when they complete challenges. It is built on the EOSIO Blockchain."
+   }             
 }
