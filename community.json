@@ -416,5 +416,10 @@
       "symbol":"",
       "icon":"https://s2.discussions.app/v1/api/upload/file/1614001733791.png",
       "desc":"ChallengeEOS App is a Geo-specific and task challenge app used to set up or receive crypto-based challenges. The challenge receivers are able to unlock Crypto when they complete challenges. It is built on the EOSIO Blockchain."
+   },
+   "ThirdRowTesla":{
+      "symbol":"",
+      "icon":"https://s2.discussions.app/v1/api/upload/file/1614726741943.png",
+      "desc":"The Third Row is a team of passionate Tesla enthusiasts who share the common goal of bringing the truth about Tesla to the world, in a fun and entertaining way, through a weekly audio/video podcast."
    }             
 }
