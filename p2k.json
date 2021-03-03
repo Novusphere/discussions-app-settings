@@ -226,6 +226,21 @@
          }
       },
       {
+         "chain":"eos",
+         "symbol":"CHL",
+         "contract":"challengedac",
+         "precision":4,
+         "min":0.01,
+         "p2k":{
+            "contract":"nsuidcntract",
+            "chain":15
+         },
+         "fee":{
+            "flat":0,
+            "percent":0.001
+         }
+      },
+      {
          "chain":"telos",
          "symbol":"TLOS",
          "contract":"eosio.token",
