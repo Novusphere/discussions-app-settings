@@ -421,5 +421,10 @@
       "symbol":"",
       "icon":"https://s2.discussions.app/v1/api/upload/file/1614726741943.png",
       "desc":"The Third Row is a team of passionate Tesla enthusiasts who share the common goal of bringing the truth about Tesla to the world, in a fun and entertaining way, through a weekly audio/video podcast."
-   }             
+   },
+   "heart":{
+      "symbol":"heart",
+      "icon":"https://s2.discussions.app/v1/api/upload/file/1614885424027.png",
+      "desc":"The Beatitude Heart is the blessing of HeartChurch and a symbol of freedom. Those who do carry the seal shall drink daily from the heart spring, though all may share in the blessings. The poor in spirit, the mourners, the meek, the righteous, the merciful, the pure and the peacemakers are all encouraged to partake, exchange and rejoice. For where your treasure is, there your heart will be also."
+   }                 
 }
