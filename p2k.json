@@ -344,6 +344,21 @@
             "flat":0,
             "percent":0.001
          }
+      },
+      {
+         "chain":"telos",
+         "symbol":"HEART",
+         "contract":"revelation21",
+         "precision":4,
+         "min":0.1,
+         "p2k":{
+            "contract":"nsuidcntract",
+            "chain":7
+         },
+         "fee":{
+            "flat":0,
+            "percent":0.001
+         }
       }
    ]
 }
