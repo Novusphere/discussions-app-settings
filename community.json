@@ -426,5 +426,10 @@
       "symbol":"heart",
       "icon":"https://s2.discussions.app/v1/api/upload/file/1614885424027.png",
       "desc":"The Beatitude Heart is the blessing of HeartChurch and a symbol of freedom. Those who do carry the seal shall drink daily from the heart spring, though all may share in the blessings. The poor in spirit, the mourners, the meek, the righteous, the merciful, the pure and the peacemakers are all encouraged to partake, exchange and rejoice. For where your treasure is, there your heart will be also."
-   }                 
+   },
+   "trias":{
+      "symbol":"trias",
+      "icon":"https://s2.discussions.app/v1/api/upload/file/1619823827326.png",
+      "desc":"Trustworthy and Reliable Intelligent Autonomous Systems. https://www.trias.one/"
+   } 
 }
